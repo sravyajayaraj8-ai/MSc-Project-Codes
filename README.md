@@ -64,3 +64,7 @@ Real detector noise was obtained from the LIGO Open Science Center (GWOSC).
 Sravya K
 
 M.Sc. Physics
+
+School of Pure and Applied Physics
+
+Mahatma Gandhi University
